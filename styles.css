@@ -251,5 +251,15 @@ h6 + h3 {
 
   #skills {
     display: flex,
-    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  #skills_1, #skills_2, #skills_3 {
+    width: 30%;
+  }
+
+  body {
+    width: 100%;
   }
