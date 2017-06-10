@@ -250,13 +250,13 @@ h6 + h3 {
     margin-top: 0.15in; } }
 
   #skills {
-    display: flex,
+    display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     width: 100%;
   }
 
-  #skills_1, #skills_2, #skills_3, #skills_4 , #skills_5 , #skills_6  {
+  #skills_1, #skills_2, #skills_3, #skills_4, #skills_5, #skills_6  {
     width: 30%;
   }
 
