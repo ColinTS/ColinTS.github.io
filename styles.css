@@ -248,3 +248,8 @@ h6 + h3 {
   h5 + h3,
   h6 + h3 {
     margin-top: 0.15in; } }
+
+  #skills {
+    display: flex,
+    flex-direction: row;
+  }
